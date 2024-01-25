@@ -3,7 +3,7 @@
 ## Predicting prices for used cars
 ![Cover Page](images/coverpage.jpg)
 
-<div style="text-align: right;">
+<div align="right">
 
 *Image created with Leonardo.AI.*
 
