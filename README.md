@@ -236,11 +236,14 @@ The XGBoost algorithm achieves the best performance, so I decided to proceed wit
 <p> I developed a Streamlit panel page that returns to the user the suggested price and some stats about the selected car and similar ones. </p>
 
 ![deploy_model](images/deploy.gif)
-<div align="right">
+<div align="center">
 
 [Try it yourself, click here!](https://cars-price-predict-auto-cars.streamlit.app)
 
+
 </div>
+
+*Obs.: It may take a few minutes for the API to initialize when you press the "suggest value" button because it is a free web service.*
 
 <br>
 
