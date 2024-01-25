@@ -236,21 +236,17 @@ The XGBoost algorithm achieves the best performance, so I decided to proceed wit
 <p> I developed a Streamlit panel page that returns to the user the suggested price and some stats about the selected car and similar ones. </p>
 
 ![deploy_model](images/deploy.gif)
-<p style="text-align: right;">
-<i>Try it yourself! You can access the Auto Cars Tool clicking the link below:</i></p>
+<div align="right">
 
-<p style="text-align: right;">
-<i>
-https://cars-price-predict-infinity-cars.streamlit.app
-</i>
-</p>
+[Try it yourself, click here!](https://cars-price-predict-auto-cars.streamlit.app)
+
+</div>
 
 <br>
 
 <p> The trained machine learning model is in an API that I created and hosted on Render Cloud as a free web service. Therefore, when Streamlit sends the car's characteristics to the API, it returns the predicted/suggested value that is shown to the user. </p>
 
 ![deploy_model](images/render_deploy.png)
-
 <div style="text-align: right;">
 
 *The API is online on Render Cloud.*
@@ -262,7 +258,6 @@ https://cars-price-predict-infinity-cars.streamlit.app
 Below you can see the schematic of the deployment architecture:
 
 ![deploy_model](images/deployment_architecture.png)
-
 <div style="text-align: right;">
 
 *Deployment architecture schematic.*
