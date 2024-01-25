@@ -239,6 +239,7 @@ The XGBoost algorithm achieves the best performance, so I decided to proceed wit
 <div style="text-align: right;">
 
 *Try it yourself! You can access the Auto Cars Tool clicking the link below:*
+
 *https://cars-price-predict-infinity-cars.streamlit.app*
 
 </div>
@@ -260,12 +261,12 @@ The XGBoost algorithm achieves the best performance, so I decided to proceed wit
 Below you can see the schematic of the deployment architecture:
 
 ![deploy_model](images/deployment_architecture.png)
+
 <div style="text-align: right;">
 
 *Deployment architecture schematic.*
 
 </div>
-
 
 <br>
 
