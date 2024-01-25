@@ -129,44 +129,44 @@ I used the CRISP-DM method (Cross Industry Standard Process - Data Science) due 
     <tr>
       <th>0</th>
       <td>Random Forest Regressor</td>
-      <td>27234.595</td>
+      <td>27234.60</td>
       <td>0.222</td>
-      <td>41625.305</td>
+      <td>41625.30</td>
     </tr>
     <tr>
       <th>0</th>
       <td>XGBoost Regressor</td>
-      <td>26897.101</td>
+      <td>26897.10</td>
       <td>0.218</td>
-      <td>41685.274</td>
+      <td>41685.27</td>
     </tr>
     <tr>
       <th>0</th>
       <td>Linear Regression</td>
-      <td>31064.729</td>
+      <td>31064.73</td>
       <td>0.254</td>
-      <td>47756.379</td>
+      <td>47756.38</td>
     </tr>
     <tr>
       <th>0</th>
       <td>Linear Regression - Lasso</td>
-      <td>32381.555</td>
+      <td>32381.55</td>
       <td>0.266</td>
-      <td>49877.338</td>
+      <td>49877.34</td>
     </tr>
     <tr>
       <th>0</th>
       <td>Decision Tree Regressor</td>
-      <td>37186.524</td>
-      <td>0.306</td>
-      <td>58231.145</td>
+      <td>37065.26</td>
+      <td>0.307</td>
+      <td>57741.05</td>
     </tr>
     <tr>
       <th>0</th>
       <td>Average Model</td>
-      <td>58974.480</td>
+      <td>58974.48</td>
       <td>0.608</td>
-      <td>79653.492</td>
+      <td>79653.49</td>
     </tr>
   </tbody>
 </table>
@@ -190,37 +190,37 @@ I used the CRISP-DM method (Cross Industry Standard Process - Data Science) due 
     <tr>
       <th>0</th>
       <td>XGBoost</td>
-      <td>26765.37 +/- 511.927875</td>
-      <td>0.215 +/- 0.001956</td>
-      <td>43048.82 +/- 3084.745074</td>
+      <td>26765.37 +/- 511.9</td>
+      <td>0.215 +/- 0.002</td>
+      <td>43048.82 +/- 3084.7</td>
     </tr>
     <tr>
       <th>0</th>
       <td>Random Forest Regressor</td>
-      <td>26944.15 +/- 449.169727</td>
-      <td>0.217 +/- 0.001813</td>
-      <td>43657.44 +/- 3416.05988</td>
+      <td>26944.15 +/- 449.2</td>
+      <td>0.217 +/- 0.0018</td>
+      <td>43657.44 +/- 3416.1</td>
     </tr>
     <tr>
       <th>0</th>
       <td>Linear Regression</td>
-      <td>31796.89 +/- 500.667377</td>
-      <td>0.253 +/- 0.001976</td>
-      <td>51222.13 +/- 2988.911712</td>
+      <td>31796.89 +/- 500.7</td>
+      <td>0.253 +/- 0.002</td>
+      <td>51222.13 +/- 2988.9</td>
     </tr>
     <tr>
       <th>0</th>
       <td>Decision Tree Regressor</td>
-      <td>36891.19 +/- 1030.538673</td>
-      <td>0.305 +/- 0.00682</td>
-      <td>58846.47 +/- 4150.006351</td>
+      <td>37015.75 +/- 1024.2</td>
+      <td>0.307 +/- 0.0068</td>
+      <td>59332.85 +/- 4034.6</td>
     </tr>
     <tr>
       <th>0</th>
       <td>Lasso</td>
-      <td>57385.15 +/- 748.484266</td>
-      <td>0.505 +/- 0.005208</td>
-      <td>84444.63 +/- 3154.7482</td>
+      <td>57385.15 +/- 748.5</td>
+      <td>0.505 +/- 0.0052</td>
+      <td>84444.63 +/- 3154.7</td>
     </tr>
   </tbody>
 </table>
