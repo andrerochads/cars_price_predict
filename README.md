@@ -260,7 +260,7 @@ The XGBoost algorithm achieves the best performance, so I decided to proceed wit
 
 Below you can see the schematic of the deployment architecture:
 
-![deploy_model](images/deployment_architecture.png)
+![deploy_model](images/deployment_architecture(1).png)
 
 <div style="text-align: right;">
 
