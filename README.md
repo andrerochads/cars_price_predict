@@ -238,7 +238,7 @@ The XGBoost algorithm achieves the best performance, so I decided to proceed wit
 ![deploy_model](images/deploy.gif)
 <div align="center">
 
-[Try it yourself, click here!](https://cars-price-predict-auto-cars.streamlit.app)
+[Try it yourself! Click here!](https://cars-price-predict-auto-cars.streamlit.app)
 
 
 </div>
@@ -249,7 +249,7 @@ The XGBoost algorithm achieves the best performance, so I decided to proceed wit
 
 <p> The trained machine learning model is in an API that I created and hosted on Render Cloud as a free web service. Therefore, when Streamlit sends the car's characteristics to the API, it returns the predicted/suggested value that is shown to the user. </p>
 
-![deploy_model](images/render_deploy.png)
+![deploy_render](images/render_deploy.jpg)
 <div style="text-align: right;">
 
 *The API is online on Render Cloud.*
@@ -260,7 +260,7 @@ The XGBoost algorithm achieves the best performance, so I decided to proceed wit
 
 Below you can see the schematic of the deployment architecture:
 
-![deploy_model](images/deployment_architecture.png)
+![deploy_model](images/deployment_architecture.jpg)
 <div style="text-align: right;">
 
 *Deployment architecture schematic.*
