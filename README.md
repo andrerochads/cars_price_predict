@@ -1,7 +1,13 @@
 # Cars Price Prediction
 
 ## Predicting prices for used cars
-![Cover Page](images/dealership.jpg)
+![Cover Page](images/coverpage.jpg)
+
+<div style="text-align: right;">
+
+*Image created with Leonardo.AI.*
+
+</div>
 
 ## 1. Business Problem
 <p>
@@ -228,15 +234,44 @@ The XGBoost algorithm achieves the best performance, so I decided to proceed wit
 
 ## 8. Deployment
 <p> I developed a Streamlit panel page that returns to the user the suggested price and some stats about the selected car and similar ones. </p>
-<p> The trained model is in an API that I created and hosted on Render Cloud with a web service. Therefore, when Streamlit is called with the car's characteristics, it returns the predicted/suggested value. </p>
 
-![deploy_model](images/)
+![deploy_model](images/deploy.gif)
+<div style="text-align: right;">
+
+*Try it yourself! You can access the Auto Cars Tool clicking the link below:*
+*https://cars-price-predict-infinity-cars.streamlit.app*
+
+</div>
+
+<br>
+
+<p> The trained machine learning model is in an API that I created and hosted on Render Cloud as a free web service. Therefore, when Streamlit sends the car's characteristics to the API, it returns the predicted/suggested value that is shown to the user. </p>
+
+![deploy_model](images/render_deploy.png)
+
+<div style="text-align: right;">
+
+*The API is online on Render Cloud.*
+
+</div>
+
+<br>
+
+Below you can see the schematic of the deployment architecture:
+
+![deploy_model](images/deployment_architecture.png)
+<div style="text-align: right;">
+
+*Deployment architecture schematic.*
+
+</div>
+
 
 <br>
 
 ## 9. Business Results
 <p> 
-
+Due to being an analysis of a acquired dataset, it is not possible in this case to estimate a financial return for the company. However, a model capable of pricing vehicles based on their characteristics, and demonstrating better performance than the current average baseline, can make the company more competitive in the market, thereby increasing its chances of success in the field.
 </p>
 
 <br>
@@ -254,3 +289,7 @@ The XGBoost algorithm achieves the best performance, so I decided to proceed wit
   <li> Investigate model underperformance in specific cars and resolve identified issues. </li>
   <li> Build a model retraining pipeline. </li>
 </ul>
+
+<br>
+
+Thanks for reading!
