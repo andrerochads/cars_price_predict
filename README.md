@@ -236,13 +236,14 @@ The XGBoost algorithm achieves the best performance, so I decided to proceed wit
 <p> I developed a Streamlit panel page that returns to the user the suggested price and some stats about the selected car and similar ones. </p>
 
 ![deploy_model](images/deploy.gif)
-<div style="text-align: right;">
+<p style="text-align: right;">
+<i>Try it yourself! You can access the Auto Cars Tool clicking the link below:</i></p>
 
-*Try it yourself! You can access the Auto Cars Tool clicking the link below:*
-
-*https://cars-price-predict-infinity-cars.streamlit.app*
-
-</div>
+<p style="text-align: right;">
+<i>
+https://cars-price-predict-infinity-cars.streamlit.app
+</i>
+</p>
 
 <br>
 
@@ -260,7 +261,7 @@ The XGBoost algorithm achieves the best performance, so I decided to proceed wit
 
 Below you can see the schematic of the deployment architecture:
 
-![deploy_model](images/deployment_architecture(1).png)
+![deploy_model](images/deployment_architecture.png)
 
 <div style="text-align: right;">
 
